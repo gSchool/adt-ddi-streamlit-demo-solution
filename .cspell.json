@@ -677,6 +677,7 @@
         "Seaborn",
         "SEIR",
         "SEIRs",
+        "selectbox",
         "sessionid",
         "setattr",
         "setdefault",
